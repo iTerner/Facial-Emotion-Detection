@@ -32,6 +32,7 @@ Over the last few years, there is an increase in the desire to use deep learning
 | `architecture.py `          | Python file consists of the implementation of the proposed architecture.                          |
 | `res `                      | Folder consists of all the images from the project                                                |
 | `requirement.txt`           | File containing all the packages we used in this project                                          |
+| `FinalProjectDeepLearning.pdf`           | The report of the project                                          |
 ## Attention Mechanism
 We proposed an attention mechanism that relies on a prior belief that much of the clues come from two major regions- the mouse region and the eyes region. Considering this fact we divide the images into two blocks.
 - Upper Block consists of the eyes and eyebrows.
