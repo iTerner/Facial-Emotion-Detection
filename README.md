@@ -9,6 +9,7 @@
 - [Requirement](#Requirement)
 - [Further development ideas](#further-development-ideas)
 - [References](#References)
+- [Notes](#Notes)
 
 ## General info
 
@@ -20,17 +21,15 @@ Over the last few years, there is an increase in the desire to use deep learning
 
 ## Repository Description
 
-| Filename                       | description                                                                                       |
-| ------------------------------ | ------------------------------------------------------------------------------------------------- |
-| `emotion-recognision.ipynb`    | The main file in google colab format, including the prepossessing. to open import to google colab |
-| `emotion-recognision.py`       | The main file in Python format                                                                    |
-| `prepossessing.py`             | The prepossessing only in a python format                                                         |
-| `dataset.py`                   | Python file consists of the implementation of the dataset object.                                 |
-| `architecture.py `             | Python file consists of the implementation of the proposed architecture.                          |
-| `data.zip`                     | ZIP folder consists of the pickle files of the train, validation, and test datasets               |
-| `eameo-faceswap-generator.zip` | ZIP folder consists of the detector and predictor for the Attention Mechanism                     |
-| `res `                         | Folder consists of all the images from the project                                                |
-| `requirement.txt`              | File containing all the packages we used in this project                                          |
+| Filename                    | description                                                                                       |
+| --------------------------- | ------------------------------------------------------------------------------------------------- |
+| `emotion-recognision.ipynb` | The main file in google colab format, including the prepossessing. to open import to google colab |
+| `emotion-recognision.py`    | The main file in Python format                                                                    |
+| `prepossessing.py`          | The prepossessing only in a python format                                                         |
+| `dataset.py`                | Python file consists of the implementation of the dataset object.                                 |
+| `architecture.py `          | Python file consists of the implementation of the proposed architecture.                          |
+| `res `                      | Folder consists of all the images from the project                                                |
+| `requirement.txt`           | File containing all the packages we used in this project                                          |
 
 ## Architecture
 
@@ -54,5 +53,15 @@ In order to install all the packages in the `requirement.txt` file, simply use t
 ## References
 
 - FERG dataset source: [FERG dataset](http://grail.cs.washington.edu/projects/deepexpr/ferg-2d-db.html)
+
+## Notes
+
+- The data, and the predictor are too big to be uploaded to GitHub. You can found them in the following links:
+  [train](https://drive.google.com/file/d/1wwtsQ1cCfpP132pGP7HZ5Ot7nmUZvimt/view?usp=sharing)
+  [validation](https://drive.google.com/file/d/1q5qOGdZ0zkmZgv5Avyc1OrWa-FYNQX3S/view?usp=sharing),
+  [test](https://drive.google.com/file/d/1pXyXMXUk08lZlnmqj-7hmD7xnKyM4Q7x/view?usp=sharing),
+  [raw-images](https://drive.google.com/drive/folders/1FjyYvSZAEPQaoROEpr5FLtK2yGmLkt6x?usp=sharing),
+  [predictor](https://drive.google.com/drive/folders/1o1DtnFnSwdRO8o23eW-a9jo_6cbY7ZA6?usp=sharing)
+  (for the raw images and the predictor you need to download the files and put them in a folder with the exact same name as in the original folder)
 
 [Go Up](#Cassava-Leaf-Disease-Classification)
