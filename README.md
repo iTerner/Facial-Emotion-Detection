@@ -5,6 +5,7 @@
 - [General info](#general-info)
 - [Background](#Background)
 - [Repository Description](#repository-description)
+- [Attention Mechanism](#Attention-Mechanism)
 - [Architecture](#Architecture)
 - [Requirement](#Requirement)
 - [Further development ideas](#further-development-ideas)
