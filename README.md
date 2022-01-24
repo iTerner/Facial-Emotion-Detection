@@ -63,5 +63,3 @@ In order to install all the packages in the `requirement.txt` file, simply use t
   [raw-images](https://drive.google.com/drive/folders/1FjyYvSZAEPQaoROEpr5FLtK2yGmLkt6x?usp=sharing),
   [predictor](https://drive.google.com/drive/folders/1o1DtnFnSwdRO8o23eW-a9jo_6cbY7ZA6?usp=sharing)
   (for the raw images and the predictor you need to download the files and put them in a folder with the exact same name as in the original folder)
-
-[Go Up](#Cassava-Leaf-Disease-Classification)
