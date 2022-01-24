@@ -64,9 +64,6 @@ In order to install all the packages in the `requirement.txt` file, simply use t
 1. Try to expand our work to more facial expression datasets.
 2. Try different uses of the attention mechanism.
 
-## Video Presentation
-For the link of the presentation of the project, click the [link](https://drive.google.com/file/d/1D_tpsRNENrSPZcnP1nu7QTyTbT4CGQnG/view?usp=sharing)
-
 ## References
 
 - FERG dataset source: [FERG dataset](http://grail.cs.washington.edu/projects/deepexpr/ferg-2d-db.html)
