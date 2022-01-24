@@ -35,7 +35,7 @@ We proposed an attention mechanism that relies on a prior belief that much of th
 The fully explenation is in the report.
 
 <p align="center">
-  <img src=".\res\Architecture.png" width="350" alt="accessibility text">
+  <img src=".\res\FlowChartAttention.png" width="350" alt="accessibility text">
 </p>
 
 ## Architecture
