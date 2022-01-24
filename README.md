@@ -9,7 +9,6 @@
 - [Architecture](#Architecture)
 - [Requirement](#Requirement)
 - [Further development ideas](#further-development-ideas)
-- [Video Presentation](#Video-Presentation)
 - [References](#References)
 - [Notes](#Notes)
 
